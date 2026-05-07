@@ -157,3 +157,26 @@ pip3 install -r requirements.txt
 ```bash
 python3 app.py
 ```
+
+---
+
+# 📬 Contact
+
+### 👨‍💻 Developer
+**Ankit Kumar Paswan**
+
+### 📧 Email
+ankit9679ankita@gmail.com
+
+### 💻 GitHub
+https://github.com/ankit-711-root
+
+---
+
+## 🐞 Bug Reports & Suggestions
+
+If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue or contact me directly.
+
+## ⭐ Support
+
+If you like this project, consider giving it a star on GitHub.
