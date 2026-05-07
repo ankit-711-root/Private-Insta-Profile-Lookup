@@ -160,23 +160,28 @@ python3 app.py
 
 ---
 
-# 📬 Contact
+## Author
 
-### 👨‍💻 Developer
-**Ankit Kumar Paswan**
+### Ankit Kumar Paswan
 
-### 📧 Email
-ankit9679ankita@gmail.com
-
-### 💻 GitHub
-https://github.com/ankit-711-root
+- 🎓 Cyber Security & Pentester
+- 🛡️ Security Researcher
+- 💻 Developer & Open Source Enthusiast
 
 ---
 
-## 🐞 Bug Reports & Suggestions
+## Connect with Me
 
-If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue or contact me directly.
+- GitHub: https://github.com/ankit-711-root
+- LinkedIn: [https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/](https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/)
+- Email: contact.ankitpaswan@gmail.com
 
-## ⭐ Support
+---
 
-If you like this project, consider giving it a star on GitHub.
+<div align="center">
+
+### ⭐ If you like this project, give it a star on GitHub!
+
+Made with ❤️ by Ankit Kumar Paswan
+
+</div>
