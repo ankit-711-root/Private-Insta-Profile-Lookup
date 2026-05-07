@@ -4,11 +4,10 @@
 
 ### Advanced OSINT Tool for Instagram Private Profile Post
 
-</div>
-
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-1.1+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Cybersecurity](https://img.shields.io/badge/Security-OSINT-red?style=for-the-badge&logo=hackthebox&logoColor=white)]()
+</div>
 
 ---
 
