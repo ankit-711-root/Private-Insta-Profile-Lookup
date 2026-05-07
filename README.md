@@ -1,5 +1,10 @@
-# 🛡️ Private-Insta Profile Lookup
-**Advanced OSINT Tool for Private Instagram Post**
+<div align="center">
+
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35"> Private-Insta Profile Lookup
+
+### Advanced OSINT Tool for Instagram Private Profile Post
+
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-1.1+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
