@@ -1,3 +1,10 @@
+# ---------------------------------------------------------
+# Project: Private-Insta-Profile-Lookup
+# Author: Ankit Kumar Paswan
+# License: MIT License
+# Copyright (c) 2026 Ankit Kumar Paswan
+# ---------------------------------------------------------
+
 from flask import Flask, render_template, request, send_file, Response
 from curl_cffi import requests
 import io
