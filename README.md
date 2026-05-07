@@ -164,8 +164,7 @@ python3 app.py
 
 ### Ankit Kumar Paswan
 
-- 🎓 Cyber Security & Pentester
-- 🛡️ Security Researcher
+- 🎓 Cyber Security Researcher & Pentester
 - 💻 Developer & Open Source Enthusiast
 
 ---
