@@ -30,29 +30,104 @@ The tool uses advanced TLS fingerprint impersonation techniques to bypass standa
 
 ---
 
-## 🚀 Installation & Setup
+---
 
-### 📥 Clone Repository
+# 📸 Windows Installation Guide
+
+## 1️⃣ Clone the Repository in PowerShell / Command Prompt
+
+Open **PowerShell** or **Command Prompt** and run:
 
 ```bash
 git clone https://github.com/ankit-711-root/Private-Insta-Profile-Lookup.git
 
 cd Private-Insta-Profile-Lookup
 ```
-## ⚙️ Installation
 
-### 📦 Install Dependencies
+### 🖼️ Example
+
+<p align="center">
+  <img src="assets/windows-clone.png" width="950">
+</p>
+
+---
+
+## 2️⃣ Install Dependencies
+
+Run the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### ▶️ Run the Tool
+---
+
+## 3️⃣ Start the Flask Server
+
+Run:
 
 ```bash
 python app.py
 ```
 
+After starting, Flask will launch the local server on:
+
+```text
+http://127.0.0.1:5000
+```
+
+### 🖼️ Example
+
+<p align="center">
+  <img src="assets/windows-run.png" width="950">
+</p>
+
+---
+
+# 🖥️ Tool Dashboard Guide
+
+Once the server starts successfully:
+
+1. Open your browser
+2. Visit:
+
+```text
+http://127.0.0.1:5000
+```
+
+3. Enter the target Instagram username in the input field
+4. Click the **SEARCH** button
+5. The tool will fetch available collaboration posts and media assets
+
+---
+
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard-ui.png" width="1000">
+</p>
+
+---
+
+## 🔍 Usage Instructions
+
+### ▶️ Step-by-Step
+
+1. Launch the tool using:
+
+```bash
+python app.py
+```
+
+2. Open the dashboard in your browser
+
+3. Type the target Instagram username into the search field
+
+4. Click on **SEARCH**
+
+5. Wait for the tool to process the request and display available collaboration media
+
+---
 ---
 
 ## 🐧 Linux Setup (Kali/Ubuntu)
