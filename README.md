@@ -187,4 +187,6 @@ python3 app.py
 
 Made with ❤️ by Ankit Kumar Paswan
 
+![](https://komarev.com/ghpvc/?username=ankit-711-root&color=red)
+
 </div>
